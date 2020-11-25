@@ -1,1 +1,5 @@
-![viniciusvviterbo](https://user-images.githubusercontent.com/24854541/100231822-4c384f00-2f06-11eb-8e71-981e1286ac51.png)
+![viniciusvviterbo](https://user-images.githubusercontent.com/24854541/100233243-388de800-2f08-11eb-8cd5-d496ed684273.png)
+
+<p align="center">
+    Vinícius V. Viterbo
+</p>
