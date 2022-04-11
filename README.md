@@ -1,7 +1,7 @@
 <div align='center'>
 <!--
-    <a href='https://github.com/othneildrew/Best-README-Template'>
-        <img src='images/logo.png' alt='Logo' width='80' height='80'>
+    <a href=''>
+        <img src='images/' alt='Logo' width='80' height='80'>
     </a>
 -->
 
@@ -14,12 +14,11 @@
         <sub>my website</sub>
     </a>
   </p>
-    <h2 />
 </div>
 
 <div>
-    <h3 align='center'>Github Stats</h3>
-    <p align='center'>
+    <h3 align='left'>Github Stats</h3>
+    <p align='left'>
         <img height='200em' src='https://github-readme-stats.vercel.app/api?username=viniciusvviterbo&theme=dark&show_icons=true&count_private=true&hide=' align='center'/>
         <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvviterbo&theme=dark&hide=html,css&langs_count=4&layout=' align='center'/>
     </p>
